@@ -3,3 +3,4 @@ env/
 *.bat
 *.csv
 *.txt
+!requirements.txt
